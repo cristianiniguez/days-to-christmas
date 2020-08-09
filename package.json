@@ -13,5 +13,9 @@
     "days"
   ],
   "author": "Cristian Iniguez <felizpc1@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bin": {
+    "days-to-christmas": "./bin/global.js"
+  },
+  "preferGlobal": true
 }
