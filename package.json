@@ -15,7 +15,15 @@
   "author": "Cristian Iniguez <felizpc1@gmail.com>",
   "license": "MIT",
   "bin": {
-    "days-to-christmas": "./bin/global.js"
+    "days-to-christmas": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianiniguez/days-to-christmas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cristianiniguez/days-to-christmas/issues"
+  },
+  "homepage": "https://github.com/cristianiniguez/days-to-christmas#readme"
 }
