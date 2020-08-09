@@ -1,0 +1,17 @@
+{
+  "name": "days-to-chirstmas",
+  "version": "1.0.0",
+  "description": "I tell you how many days until Christmas",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "javascript",
+    "christmas",
+    "days"
+  ],
+  "author": "Cristian Iniguez <felizpc1@gmail.com>",
+  "license": "MIT"
+}
