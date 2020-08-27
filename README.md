@@ -4,7 +4,7 @@ This is a NPM package who tells you how many days until Christmas
 ## Install
 
 ```npm
-npm install -g days-to-christmas
+npm i days-to-chirstmas
 ```
 
 # Usage
